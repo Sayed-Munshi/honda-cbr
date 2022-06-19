@@ -1,0 +1,224 @@
+body {
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Hind', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+.top-banner {
+    background-color: #264653;
+}
+
+.nav-btn-style {
+    padding: 2px;
+}
+
+.navbar-style {
+    margin-top: 30px;
+}
+
+.navbar-style a {
+    color: white;
+}
+
+.allBTN-style {
+    background-color: #E76F51;
+    color: #FFFFFF;
+
+}
+
+/* top banner styles */
+.top-banner-paragraph {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    color: #FFFFFF;
+    margin-top: 20px;
+}
+
+.top-banner-text {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    color: #FFFFFF;
+}
+
+.header-bike img {
+    width: 100%;
+    margin-bottom: 69px;
+}
+
+.header-sty {
+    margin-top: 69px;
+
+}
+
+.modal-btn-style {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    background-color: #E76F51;
+    color: #FFFFFF;
+}
+
+/* future area */
+.future-text {
+    margin-top: 64px;
+    text-align: center;
+}
+
+.future-text h1 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+}
+
+.future-text p {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    color: #E76F51;
+}
+
+.future-bike img {
+    width: 80%;
+    margin-top: 90px;
+    margin-bottom: 120px;
+}
+
+.grayscale-effect {
+    filter: grayscale(100%);
+}
+
+/* latest news section */
+.latest {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    text-align: center;
+    /* margin-top: 120px; */
+    margin-bottom: 50px;
+}
+
+.latest-bike img {
+    padding: 20px;
+}
+
+.latest-bike-body h5 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.latest-bike-body p {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+
+}
+
+.latest-btn {
+    background-color: #E76F51;
+    color: #FFFFFF;
+
+}
+
+/* Happy clients Says */
+.happy-client {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    text-align: center;
+    margin-top: 120px;
+    margin-bottom: 50px;
+    color: #0A0826;
+}
+
+.client-say {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    text-align: center;
+    color: #E76F51;
+}
+
+.testomonial img {
+    padding: 30px;
+}
+
+.testomonial-body {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #6C6C6C;
+    text-align: center;
+}
+
+.star {
+    color: #E77C40;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.star-gray {
+    color: gray;
+}
+
+.client-name {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    color: #23A6F0;
+    letter-spacing: 0.2px;
+}
+
+.designation {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    color: #252B42;
+    letter-spacing: 0.2px;
+}
+
+/* FAQ section */
+.faq-images img {
+    width: 70%;
+}
+
+.FAQsection {
+    margin-top: 60px;
+    margin-bottom: 80px;
+}
+
+.FAQsection h1 {
+    margin-bottom: 60px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+}
+
+.faq-test-style {
+    color: #E76F51;
+}
+
+footer {
+    margin-bottom: 60px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    text-align: center;
+}
